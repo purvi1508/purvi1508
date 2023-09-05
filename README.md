@@ -3,6 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/purvi-verma-3a553a23b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purvi-verma-3a553a23b" height="30" width="40" /></a>
+<a href="https://kaggle.com/purviverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="purviverma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/20ce01050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="20ce01050" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
