@@ -109,7 +109,7 @@ Supervised by IIT Bhubaneswar + IIT Bombay.
 ## Onboard Systems
 
 ```
-COGNITION   →  Claude · GPT-4 · Gemini · Llama · HuggingFace OSS
+COGNITION   →  Claude · GPT · Gemini · Llama · HuggingFace OSS
 NAVIGATION  →  LangGraph · LangChain · LangFlow · MLFlow
 SENSORS     →  PyTorch · TensorFlow · Keras · Scikit-learn · OpenCV
 PROPULSION  →  Docker · Kubernetes · GCP · Firebase · Vertex AI
