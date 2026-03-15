@@ -129,7 +129,7 @@ STORAGE     →  MySQL · MongoDB · Firestore
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
