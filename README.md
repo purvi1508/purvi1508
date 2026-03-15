@@ -130,7 +130,6 @@ STORAGE     →  MySQL · MongoDB · Firestore
 
 | Achievement |
 |---|
-| **1st Place** — ML Hackathon, IIT Bhubaneswar · Real-time Age & Gender Detection |
 | **Finalist** — Google Cloud Agentic AI Day Hackathon · AgriBot |
 | Published [`safeguard_toolkit`](https://pypi.org/project/safeguard_toolkit/) on PyPI |
 | Contributor · `video-keyframe-detector` · `CRAFT-pytorch` (PyTorch OCR inference stability) |
