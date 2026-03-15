@@ -142,7 +142,7 @@ STORAGE     →  MySQL · MongoDB · Firestore
 
 **◈ OPEN CHANNEL ◈**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4a9eff?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/purvi-verma-3a553a23b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4a9eff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvi-verma-3a553a23b/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge)](https://purvi1508.github.io/PurviVerma/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-2dd4bf?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/20ce01050/)
 
