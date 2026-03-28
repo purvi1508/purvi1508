@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=PURVI+VERMA;AI+ENGINEER+%7C+LLM+ARCHITECT;NEURAL+EXPLORER+%F0%9F%9A%80" alt="Purvi Verma" />
 </h1>
 
-<p><em>Because great AI isn't just powerful — it's safe.</em></p>
-
 ![Bangalore](https://img.shields.io/badge/📍-Bangalore,_India-020b18?style=for-the-badge&labelColor=0a2540&color=4a9eff)
 ![Company](https://img.shields.io/badge/🏢-Publicis_Sapient-020b18?style=for-the-badge&labelColor=0a2540&color=a78bfa)
 ![College](https://img.shields.io/badge/🎓-IIT_Bhubaneswar-020b18?style=for-the-badge&labelColor=0a2540&color=2dd4bf)
@@ -125,7 +123,7 @@ STORAGE     →  MySQL · MongoDB · Firestore
 |---|
 | **Finalist** — Google Cloud Agentic AI Day Hackathon · AgriBot |
 | Published [`safeguard_toolkit`](https://pypi.org/project/safeguard_toolkit/) on PyPI |
-| Contributor · `video-keyframe-detector` · `CRAFT-pytorch` (PyTorch OCR inference stability) |
+| Contributor · `bespoke` · `video-keyframe-detector` · `CRAFT-pytorch`|
 
 ---
 
