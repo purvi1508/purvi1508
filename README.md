@@ -131,8 +131,6 @@ STORAGE     →  MySQL · MongoDB · Firestore
 
 <div align="center">
 
-![Purvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purvi1508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020b18&title_color=4a9eff&icon_color=a78bfa&text_color=94a3b8)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purvi1508&layout=compact&theme=tokyonight&hide_border=true&bg_color=020b18&title_color=4a9eff&text_color=94a3b8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=purvi1508&theme=tokyonight&hide_border=true&background=020b18&ring=4a9eff&fire=f472b6&currStreakLabel=a78bfa)
@@ -140,7 +138,7 @@ STORAGE     →  MySQL · MongoDB · Firestore
 
 **◈ OPEN CHANNEL ◈**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4a9eff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvi-verma-3a553a23b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4a9eff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvi-verma-3a553a23b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge)](https://purvi1508.github.io/PurviVerma/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-2dd4bf?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/20ce01050/)
 
