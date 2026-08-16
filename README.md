@@ -97,7 +97,6 @@ A 7-stage pipeline combining static analysis with LLM reasoning to auto-generate
 | Google Cloud Agentic AI Day Hackathon | **Top 700 / 9,100 teams** — AgriBot, a multimodal AI assistant for Indian farmers |
 | Real-time Age & Gender Detection | **1st place**, IIT Bhubaneswar Hackathon (2023) |
 | B.Tech, IIT Bhubaneswar | CGPA 8.2/10 |
-| Class XII, CBSE | 92.2% |
 
 
 ### inference example
