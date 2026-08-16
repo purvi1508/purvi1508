@@ -20,7 +20,7 @@ type:  applied-ai-engineer · 2+ yrs production LLM systems
 ### summary
 
 ```yaml
-base_model:      B.Tech, IIT Bhubaneswar (CGPA 8.2/10)
+base_model:      B.Tech, IIT Bhubaneswar 
 fine-tuned_at:   Publicis Sapient — Senior Associate, Data Science (Jul 2024 – Jul 2026)
 pre-training:    AI Intern, Blockatena (Mar 2023 – May 2023)
 currently:       M.Tech, Artificial Intelligence — IIT Roorkee (2026 – 2028)
